@@ -1,0 +1,4 @@
+([('ytdownloader',
+   '/Users/eimantascepulis/Desktop/Python Greier/Python TKinter greier/YT '
+   'Downloader/dist/ytdownloader',
+   'EXECUTABLE')],)
